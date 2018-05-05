@@ -15,7 +15,7 @@
                 "uuid": "310470ef-cb8c-4adb-9296-587d7e3c8c3d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-245",
                 "uuid": "955c9ec5-b0fc-4410-bd01-9b10ded7b387"
             },
@@ -49,9 +49,9 @@
         "value": 0.00234729572111665
     },
     "Ar37": {
-        "error": 0.005054377986057863,
+        "error": 0.009392932880039454,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -64,7 +64,7 @@
                 "uuid": "310470ef-cb8c-4adb-9296-587d7e3c8c3d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-245",
                 "uuid": "955c9ec5-b0fc-4410-bd01-9b10ded7b387"
             },
@@ -95,12 +95,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.048748796648735604
+        "value": 0.04428464703639387
     },
     "Ar38": {
-        "error": 0.0023513188010891423,
+        "error": 0.004915643514570867,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -113,7 +113,7 @@
                 "uuid": "310470ef-cb8c-4adb-9296-587d7e3c8c3d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-245",
                 "uuid": "955c9ec5-b0fc-4410-bd01-9b10ded7b387"
             },
@@ -144,12 +144,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0025143364610426717
+        "value": 0.006137573350629652
     },
     "Ar39": {
-        "error": 0.0059592303772420495,
+        "error": 0.012922927332351107,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -162,7 +162,7 @@
                 "uuid": "310470ef-cb8c-4adb-9296-587d7e3c8c3d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-245",
                 "uuid": "955c9ec5-b0fc-4410-bd01-9b10ded7b387"
             },
@@ -193,7 +193,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.05277424056272334
+        "value": 0.06161688685762096
     },
     "Ar40": {
         "error": 0.010765940482883218,
@@ -211,7 +211,7 @@
                 "uuid": "310470ef-cb8c-4adb-9296-587d7e3c8c3d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-245",
                 "uuid": "955c9ec5-b0fc-4410-bd01-9b10ded7b387"
             },
