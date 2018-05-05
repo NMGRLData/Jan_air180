@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 8.479749629139826e-05,
+        "error": 0.00013701863751813177,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -30,18 +30,18 @@
                 "uuid": "1c8d75d2-2362-4c72-aec3-2960d274dda2"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-138",
                 "uuid": "7d1ed409-7d72-42bd-98db-173df22e7e22"
             }
         ],
         "reviewed": true,
-        "value": 0.0023435041322577457
+        "value": 0.0024353700193635286
     },
     "Ar37": {
-        "error": 0.010348101799893861,
+        "error": 0.006547931121395277,
         "error_type": "",
-        "fit": "Weighted Mean",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -69,18 +69,18 @@
                 "uuid": "1c8d75d2-2362-4c72-aec3-2960d274dda2"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-138",
                 "uuid": "7d1ed409-7d72-42bd-98db-173df22e7e22"
             }
         ],
         "reviewed": true,
-        "value": 0.04689547877110256
+        "value": 0.048063590943417486
     },
     "Ar38": {
-        "error": 0.005044064205144492,
+        "error": 0.004872421711255439,
         "error_type": "",
-        "fit": "Weighted Mean",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -108,18 +108,18 @@
                 "uuid": "1c8d75d2-2362-4c72-aec3-2960d274dda2"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-138",
                 "uuid": "7d1ed409-7d72-42bd-98db-173df22e7e22"
             }
         ],
         "reviewed": true,
-        "value": 0.00801082805123641
+        "value": 0.007658220217727731
     },
     "Ar39": {
-        "error": 0.05099005955287936,
+        "error": 0.04124094022345928,
         "error_type": "",
-        "fit": "Weighted Mean",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -147,13 +147,13 @@
                 "uuid": "1c8d75d2-2362-4c72-aec3-2960d274dda2"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-138",
                 "uuid": "7d1ed409-7d72-42bd-98db-173df22e7e22"
             }
         ],
         "reviewed": true,
-        "value": 0.04803826528957364
+        "value": 0.032365853282029226
     },
     "Ar40": {
         "error": 0.00988745578478909,
@@ -186,7 +186,7 @@
                 "uuid": "1c8d75d2-2362-4c72-aec3-2960d274dda2"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-138",
                 "uuid": "7d1ed409-7d72-42bd-98db-173df22e7e22"
             }
