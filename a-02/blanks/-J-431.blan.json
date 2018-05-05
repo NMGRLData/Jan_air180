@@ -30,7 +30,7 @@
                 "uuid": "3fce0540-88b0-427a-89d8-97b510b5954d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-255",
                 "uuid": "a9f4ffd6-0fb1-4092-90a7-9489f97b6a45"
             },
@@ -45,7 +45,7 @@
                 "uuid": "e9d18bab-65f9-4f8c-bd9c-dd38b997a20c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-258",
                 "uuid": "cb4800b5-b064-4ae3-9771-a5772d4e28a0"
             }
@@ -84,7 +84,7 @@
                 "uuid": "3fce0540-88b0-427a-89d8-97b510b5954d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-255",
                 "uuid": "a9f4ffd6-0fb1-4092-90a7-9489f97b6a45"
             },
@@ -99,7 +99,7 @@
                 "uuid": "e9d18bab-65f9-4f8c-bd9c-dd38b997a20c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-258",
                 "uuid": "cb4800b5-b064-4ae3-9771-a5772d4e28a0"
             }
@@ -138,7 +138,7 @@
                 "uuid": "3fce0540-88b0-427a-89d8-97b510b5954d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-255",
                 "uuid": "a9f4ffd6-0fb1-4092-90a7-9489f97b6a45"
             },
@@ -153,7 +153,7 @@
                 "uuid": "e9d18bab-65f9-4f8c-bd9c-dd38b997a20c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-258",
                 "uuid": "cb4800b5-b064-4ae3-9771-a5772d4e28a0"
             }
@@ -192,7 +192,7 @@
                 "uuid": "3fce0540-88b0-427a-89d8-97b510b5954d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-255",
                 "uuid": "a9f4ffd6-0fb1-4092-90a7-9489f97b6a45"
             },
@@ -207,7 +207,7 @@
                 "uuid": "e9d18bab-65f9-4f8c-bd9c-dd38b997a20c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-258",
                 "uuid": "cb4800b5-b064-4ae3-9771-a5772d4e28a0"
             }
@@ -246,7 +246,7 @@
                 "uuid": "3fce0540-88b0-427a-89d8-97b510b5954d"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-255",
                 "uuid": "a9f4ffd6-0fb1-4092-90a7-9489f97b6a45"
             },
@@ -261,7 +261,7 @@
                 "uuid": "e9d18bab-65f9-4f8c-bd9c-dd38b997a20c"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-J-258",
                 "uuid": "cb4800b5-b064-4ae3-9771-a5772d4e28a0"
             }
