@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 8.9999259815686e-05,
+        "error": 0.00014734875322594044,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -26,10 +26,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.002165137541051451
+        "value": 0.0020215605859868107
     },
     "Ar37": {
-        "error": 0.006767230712133509,
+        "error": 0.007276730045164203,
         "error_type": "",
         "fit": "Weighted Mean",
         "references": [
@@ -55,10 +55,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0416171511087679
+        "value": 0.042503260640037184
     },
     "Ar38": {
-        "error": 0.00592331876862241,
+        "error": 0.005923318612457176,
         "error_type": "",
         "fit": "Weighted Mean",
         "references": [
@@ -84,10 +84,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0070975672593819586
+        "value": 0.007097567102675571
     },
     "Ar39": {
-        "error": 0.008595081697973052,
+        "error": 0.010467988244922125,
         "error_type": "",
         "fit": "Weighted Mean",
         "references": [
@@ -113,7 +113,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.04855712372606431
+        "value": 0.053962646522155995
     },
     "Ar40": {
         "error": 0.009493580071497337,
