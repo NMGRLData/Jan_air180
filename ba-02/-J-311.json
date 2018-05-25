@@ -1,0 +1,156 @@
+{
+    "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)",
+    "aliquot": 311,
+    "analysis_type": "blank_air",
+    "analyst_name": "",
+    "comment": "",
+    "commit": "53671a448789cca044d6f981e1a82fb85eeb06a3",
+    "conditionals": null,
+    "data_reduction_software": "Pychron18.2(DVC0.1)",
+    "detectors": {
+        "AX": {
+            "deflection": 190.0,
+            "gain": 0
+        },
+        "CDD": {
+            "deflection": 50.0,
+            "gain": 0
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 0
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 0
+        },
+        "L1": {
+            "deflection": 400.0,
+            "gain": 0
+        },
+        "L2": {
+            "deflection": 825.0,
+            "gain": 0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2018-05-25T07:41:50",
+                "title": "iServer Hum.",
+                "value": 25.2
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure",
+                "name": "Pressure",
+                "pub_date": "2018-05-25T07:37:40",
+                "title": "Building",
+                "value": 99.9
+            },
+            {
+                "device": "AirPressure2",
+                "name": "Pressure2",
+                "pub_date": "2018-05-25T07:40:42",
+                "title": "Lab",
+                "value": 88.7
+            },
+            {
+                "device": "MicroBoneGaugeController",
+                "name": "JanDecabinPressure",
+                "pub_date": "2018-05-25T05:56:57",
+                "title": "Jan Decabin",
+                "value": 3.5
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger",
+                "name": "ColdFinger Temp.",
+                "pub_date": "2018-05-25T07:10:38",
+                "title": "Cold Finger",
+                "value": -197.0
+            },
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2018-05-25T06:01:03",
+                "title": "iServer Temp.",
+                "value": 71.2
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2018-05-25T05:09:53",
+                "title": "Coolant",
+                "value": 18.0
+            },
+            {
+                "device": "JanMonitor",
+                "name": "JanDecabinTemp",
+                "pub_date": "2018-05-25T06:24:17",
+                "title": null,
+                "value": 34.03663003663
+            }
+        ]
+    },
+    "experiment_queue_name": "Load1888",
+    "extraction": "jan_sniffair_x1_quad_open.py",
+    "identifier": "ba-02-J",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 20,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40"
+        },
+        "Ar41": {
+            "detector": "H2",
+            "name": "Ar41"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "jan",
+    "material": "Blank",
+    "measurement": "jan_unknown280_45_no_center.py",
+    "post_equilibration": "jan_pump_extraction_line.py",
+    "post_measurement": "jan_pump_ms.py",
+    "principal_investigator": "NMGRL",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Jan_air180",
+    "sample": "blank_air",
+    "source": {
+        "emission": 545.238,
+        "trap": 198.371
+    },
+    "spec_sha": "c1fe357b5a18226d3b50b5c8ee4acfa0b19727ae",
+    "timestamp": "2018-05-25T07:42:26.229119",
+    "tripped_conditional": null,
+    "username": "",
+    "uuid": "00b1ab9b-3047-44a2-9fb0-46fd42887339",
+    "whiff_result": null
+}
