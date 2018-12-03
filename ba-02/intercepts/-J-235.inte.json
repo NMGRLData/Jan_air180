@@ -53,26 +53,26 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 268,
+        "fn": 269,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
         "value": 0.015081161293926084
     },
     "Ar40": {
-        "error": 0.01258620668674563,
+        "error": 0.00902051161264777,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 272,
+        "fit": "Parabolic",
+        "fn": 267,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 0.36730731181819026
+        "value": 0.1039018746741255
     },
     "Ar41": {
         "error": 0.013944825154560303,
