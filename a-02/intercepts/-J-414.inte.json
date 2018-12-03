@@ -1,18 +1,18 @@
 {
     "Ar36": {
-        "error": 0.0012351025859313625,
+        "error": 0.002024028283602186,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 264,
+        "fit": "Parabolic",
+        "fn": 265,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 0.8660800805121507
+        "value": 0.8677235693382748
     },
     "Ar37": {
         "error": 0.005717772260773504,
@@ -45,34 +45,34 @@
         "value": 0.11557735252247796
     },
     "Ar39": {
-        "error": 0.006122161369107527,
+        "error": 0.01035117383452833,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 265,
-        "include_baseline_error": false,
-        "n": 280,
-        "reviewed": true,
-        "value": 0.0340340092637253
-    },
-    "Ar40": {
-        "error": 0.01747604265820208,
-        "error_type": "SEM",
-        "filter_outliers_dict": {
-            "filter_outliers": true,
-            "iterations": 1,
-            "std_devs": 2
-        },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 267,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 256.8343782600506
+        "value": 0.026271811224326286
+    },
+    "Ar40": {
+        "error": 0.02801589956772535,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Parabolic",
+        "fn": 267,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 256.85962206774246
     },
     "Ar41": {
         "error": 0.015279948462449086,

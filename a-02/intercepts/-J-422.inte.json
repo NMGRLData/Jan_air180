@@ -1,18 +1,18 @@
 {
     "Ar36": {
-        "error": 0.0012534922464691749,
+        "error": 0.0020516047001752314,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 268,
+        "fit": "Parabolic",
+        "fn": 269,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 0.8650231677175104
+        "value": 0.8671714155638146
     },
     "Ar37": {
         "error": 0.005499104069254409,
@@ -45,34 +45,34 @@
         "value": 0.13125315776031132
     },
     "Ar39": {
-        "error": 0.006735409977569406,
+        "error": 0.01082984266242831,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 266,
-        "include_baseline_error": false,
-        "n": 280,
-        "reviewed": true,
-        "value": 0.031174946922870737
-    },
-    "Ar40": {
-        "error": 0.015610940049936095,
-        "error_type": "SEM",
-        "filter_outliers_dict": {
-            "filter_outliers": true,
-            "iterations": 1,
-            "std_devs": 2
-        },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 265,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 256.31802131333103
+        "value": 0.01701079703571856
+    },
+    "Ar40": {
+        "error": 0.025709096506683203,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Parabolic",
+        "fn": 267,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 256.37269222035013
     },
     "Ar41": {
         "error": 0.013551333403459993,
