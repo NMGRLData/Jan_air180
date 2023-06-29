@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.00012588064963147132,
+        "error": 0.00020342791930230193,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -51,12 +51,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0019781777457921527
+        "value": 0.002257773417439198
     },
     "Ar37": {
-        "error": 0.004638215741557614,
+        "error": 0.0018703204672652729,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -105,12 +105,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.042832119888832045
+        "value": 0.0432306472007006
     },
     "Ar38": {
-        "error": 0.0019951204196990576,
+        "error": 0.0015479214243642318,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -159,12 +159,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.004217931608399471
+        "value": 0.005611596531277601
     },
     "Ar39": {
-        "error": 0.00864839505927796,
+        "error": 0.003981539596095129,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -213,12 +213,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.02764673690913705
+        "value": 0.05669504285854636
     },
     "Ar40": {
-        "error": 0.006733393525738502,
+        "error": 0.020776213091431194,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Average_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -267,7 +267,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.09552741765142007
+        "value": 0.10367068408119505
     },
     "Ar41": {
         "error": 0.014210765188448791,
